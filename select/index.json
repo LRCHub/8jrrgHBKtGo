@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "積木遊び",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-03-06T09:43:57.522763Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "積木遊び",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_積木遊び_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tsumiki Asobi [積木遊び]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_Tsumiki_Asobi_[積木遊び]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "積木遊び",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_積木遊び_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "積木遊び - 下克上エクスタシー '00",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_積木遊び_-_下克上エクスタシー_'00_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "積木遊び <“下剋上エクスタシー”2000.4.26 NHKホール>",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/05_積木遊び__“下剋上エクスタシー”2000.4.26_NHKホール_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "積木遊び ／ \"下剋上エクスタシー\"2000.4.26 NHKホール",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_積木遊び____下剋上エクスタシー_2000.4.26_NHKホール_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "積木遊び ／ \"下剋上エクスタシー\"2000.4.26 NHKホール",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/07_積木遊び____下剋上エクスタシー_2000.4.26_NHKホール_Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "積木遊び (下克上エクスタシー '00)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/08_積木遊び_(下克上エクスタシー_'00)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "積木遊び ／ \"下剋上エクスタシー\"2000.4.26 NHKホール",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/09_積木遊び____下剋上エクスタシー_2000.4.26_NHKホール_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "積木遊び",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_積木遊び_椎名_林檎.txt"
+    }
+  ]
+}
